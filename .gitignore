@@ -8,3 +8,5 @@ data/
 ai_aliases.sh
 fast-ai-commands.txt
 fast-ai-remove.sh
+deeplearning1/nbs/data/
+deeplearning1/nbs/dogs_cats/data
